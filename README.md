@@ -44,7 +44,8 @@ Ensure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/DharmikPrajapati23/Samosa-and-Burger-Classification.git
-   cd samosa-burger-classification
+   
+   cd Samosa-and-Burger-Classification
    ```
 2. Install dependencies:
    ```bash
