@@ -43,16 +43,12 @@ Ensure you have the following installed:
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/samosa-burger-classification.git
+   git clone https://github.com/DharmikPrajapati23/Samosa-and-Burger-Classification.git
    cd samosa-burger-classification
    ```
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-   ```
-3. Run the training script:
-   ```bash
-   python train.py
    ```
 
 ## Usage
